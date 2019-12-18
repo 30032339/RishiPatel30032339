@@ -44,8 +44,8 @@ nav{
     width: 100%;
     text-align: left;
     position: sticky;
-  top:0;
-  z-index: 1000;
+    top:0;
+    z-index: 1000;
 }
 label.logo{
     color: white;
@@ -332,10 +332,8 @@ section{
 
     .heading h2{
         grid-area: header;
-        /* background: blue; */
         text-align: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
-    
         color: black;
         font-size: 70px;
         padding-bottom: 100PX;
@@ -496,7 +494,6 @@ section{
     .datatext { 
         text-align:center;
         color: brown;
-        /* background: black; */
 	    }
         tr:nth-child(even) {background-color:lightblue;}
 
@@ -520,14 +517,9 @@ section{
         background-color: rgb(255, 255,255);
         text-align: center;
         padding: 1em;
-        /* font-size: 30px; */
       }
       .vheadder{
-        /* background-color: red; */
-          /* align-items: stretch; */
-          /* padding: 400px; */
           grid-column: 1/3;
-          /* height: 20%; */
       }
       .vheadder h2{
           transform: translateY(-50%);
@@ -614,7 +606,6 @@ section{
       .imagefc{
         height: 120px;
         width: 100%;
-        /* background-color: #8c795d; */
     }
     .imagehd{
         padding-top: 10px;
@@ -887,12 +878,9 @@ section{
 .home{
     clear: both;
     text-align: center;
-    /* padding-ri: 400px; */
     align-items: center;
-    /* padding-right: 20px; */
     padding-top: 50px;
     width: 100%;
-    /* background: green; */
 }
 .home h2{
     font-size: 40px;
@@ -944,12 +932,9 @@ section{
 .refthinktodo{
     clear: both;
     text-align: center;
-    /* padding-ri: 400px; */
     align-items: center;
-    /* padding-right: 20px; */
     padding-top: 50px;
     width: 100%;
-    /* background: green; */
 }
 .refthinktodo h2{
     font-size: 40px;
@@ -965,12 +950,9 @@ section{
 .last{
     clear: both;
     text-align: center;
-    /* padding-ri: 400px; */
     align-items: center;
-    /* padding-right: 20px; */
     padding-top: 50px;
     width: 100%;
-    /* background: green; */
 }
 .last h2{
     font-size: 40px;
@@ -988,7 +970,6 @@ section{
     background: white;
     background-repeat: no-repeat;
     background-size: cover;
-    /* display: flex; */
     position: relative;
     justify-content: center;
     align-items: center;
