@@ -399,6 +399,9 @@ section{
   .slide5 {
     background-image: url("/img/img5.jpg");
   }
+  .slide6{
+      background-image: url("http://www.hickerphoto.com/images/1024/kaikoura-pictures_15155.jpg");
+  }
   .swiper-slide::after {
     content:"";
     background-image: inherit;
